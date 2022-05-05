@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Maven Learning/Practicals/Lab2/1 Operators/sim
+valu
+Z0 !s110 1649410805
+!i10b 1
+!s100 Uz@d7KUf6`8WP7097di]_0
+IAl;5d`^:?J?S`Yzj5AMPX0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Maven Learning/Practicals/Lab2/2 ALU/sim
+w1649404792
+8D:/Maven Learning/Practicals/Lab2/2 ALU/rtl/alu.v
+FD:/Maven Learning/Practicals/Lab2/2 ALU/rtl/alu.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1649410805.000000
+!s107 D:/Maven Learning/Practicals/Lab2/2 ALU/rtl/alu.v|
+!s90 -reportprogress|300|-work|alu_sim|-stats=none|D:/Maven Learning/Practicals/Lab2/2 ALU/rtl/alu.v|
+!i113 1
+Z5 o-work alu_sim
+Z6 tCvgOpt 0
+valu_tb
+R0
+!i10b 1
+!s100 eZa4Xo<TC0Eg0@gk]WH=W1
+INeZHfP6Q@SRK:JZ9]ZhkA0
+R1
+R2
+w1649405378
+8D:/Maven Learning/Practicals/Lab2/2 ALU/test_bench/alu_tb.v
+FD:/Maven Learning/Practicals/Lab2/2 ALU/test_bench/alu_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Maven Learning/Practicals/Lab2/2 ALU/test_bench/alu_tb.v|
+!s90 -reportprogress|300|-work|alu_sim|-stats=none|D:/Maven Learning/Practicals/Lab2/2 ALU/test_bench/alu_tb.v|
+!i113 1
+R5
+R6

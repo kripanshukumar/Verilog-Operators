@@ -1,0 +1,11 @@
+Fitter Status : Successful - Fri Apr  8 13:30:09 2022
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : alu
+Top-level Entity Name : alu
+Family : MAX II
+Device : EPM2210F324I5
+Timing Models : Final
+Total logic elements : 325 / 2,210 ( 15 % )
+Total pins : 37 / 272 ( 14 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
